@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34184" started-at="2015-12-13T05:10:34Z" finished-at="2015-12-13T05:11:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34184" started-at="2015-12-13T05:10:34Z" finished-at="2015-12-13T05:11:09Z">
+      <class name="MyProject.LogIn">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:MyProject.LogIn@1247367]" name="openUrl" is-config="true" duration-ms="14937" started-at="2015-12-13T10:40:35Z" finished-at="2015-12-13T10:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="Actualtest()[pri:0, instance:MyProject.LogIn@1247367]" name="Actualtest" duration-ms="18727" started-at="2015-12-13T10:40:49Z" finished-at="2015-12-13T10:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Actualtest -->
+        <test-method status="PASS" signature="QuitDriver()[pri:0, instance:MyProject.LogIn@1247367]" name="QuitDriver" is-config="true" duration-ms="458" started-at="2015-12-13T10:41:08Z" finished-at="2015-12-13T10:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitDriver -->
+      </class> <!-- MyProject.LogIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
